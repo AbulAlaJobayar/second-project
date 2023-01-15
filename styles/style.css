@@ -257,7 +257,7 @@ header {
     border-radius: 8px;
 }
 .some-facts-info-container-item:hover{
-    transform: skew(355deg, 18 deg);
+    transform: skew(355deg, 18deg);
 }
 
 .some-facts-info-container-item h3 {
